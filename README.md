@@ -1,1 +1,1 @@
-# Codechef-Vit-Bhopal
+# Codechef
