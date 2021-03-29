@@ -718,6 +718,97 @@
 #footer-1 .container-fluid svg{
   padding: 10%;
 }
+@media (min-width: 375px) and (max-width: 419.98px) {
+  #rectangle img {
+    left: 24%;
+    top: 21%;
+    width: 277%;
+  }
+  #logo-2 img {
+    left: 133%;
+  }
+  #heading {
+    left: 113.8%;
+    top: 74.8%;
+    width: 100%;
+  }
+  #nav{
+    display:none;
+  }
+  #back-1 img {
+    width: 356%;
+  }
+  #sign {
+    top: 110%;
+    left: 128%;
+  }
+  #img img {
+    top: 203%;
+    left: 175%;
+  }
+  #matter p {
+    width: 70%;
+  }
+  #back-box img {
+    width: 345%;
+    height: 154%;
+  }
+  #box-3 {
+    position: absolute;
+    top: 352%;
+    left: -8%;
+  }
+  #ellipse img {
+    position: absolute;
+    width: 688px;
+    height: 370px;
+    left: 90px;
+    top: 1608px;
+  }
+  #path img {
+    height: 50%;
+    width: 469%;
+  }
+  #material p {
+    width: 406px;
+  }
+  #event-1 img {
+    margin-left: 62%;
+    width: 215%;
+  }
+  #rectangle-2 img {
+    width: 322vw;
+  }
+  #path-1 img {
+    height: 50%;
+    width: 469%;
+  }
+  #footer img {
+    width: 353%;
+  }
+  #last img {
+    left: 11.92%;
+    top: 812%;
+    width: 67%;
+    height: 16%;
+  }
+  #contact-us {
+    left: 194%;
+  }
+  #coursel {
+    margin: auto;
+    left: -13%;
+  }
+  #event img {
+    position: absolute;
+    width: 541px;
+    height: 541px;
+    border-radius: 0px 39px 39px 0px;
+    left: 600px;
+  }
+
+
+}
 @media (min-width: 420px) and (max-width: 575.98px) {
   #rectangle img {
     left: 24%;
