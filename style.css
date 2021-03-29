@@ -718,6 +718,102 @@
 #footer-1 .container-fluid svg{
   padding: 10%;
 }
+@media (min-width: 320px) and (max-width: 374.98px) {
+  #rectangle img {
+    left: 24%;
+    top: 21%;
+    width: 318%;
+  }
+  #logo-2 img {
+    left: 149%;
+  }
+  #heading {
+    left: 134.8%;
+    top: 74.8%;
+    width: 100%;
+  }
+  #nav{
+    display:none;
+  }
+  #back-1 img {
+    width: 394%;
+  }
+  #sign {
+    top: 110%;
+    left: 142%;
+  }
+  #img img {
+    top: 203%;
+    left: 175%;
+  }
+  #matter p {
+    width: 70%;
+  }
+  #back-box img {
+    width: 379%;
+    height: 154%;
+  }
+  #box-3 {
+    position: absolute;
+    top: 352%;
+    left: -8%;
+  }
+  #ellipse img {
+    position: absolute;
+    width: 688px;
+    height: 370px;
+    left: 90px;
+    top: 1608px;
+  }
+  #path img {
+    height: 50%;
+    width: 529%;
+  }
+  #material p {
+    width: 406px;
+  }
+  #event-1 img {
+    margin-left: 50%;
+    width: 277%;
+  }
+  #upcoming-events h2{
+    left:300px;
+    top:-156px;
+  }
+  #rectangle-2 img {
+    width: 357vw;
+  }
+  #path-1 img {
+    height: 50%;
+    width: 529%;
+  }
+  #footer img {
+    width: 395%;
+  }
+  #last img {
+    left: 11.92%;
+    top: 812%;
+    width: 88%;
+    height: 16%;
+  }
+  #contact-us {
+    left: 194%;
+  }
+  #coursel {
+    margin: auto;
+    left: -13%;
+  }
+  #event img {
+    position: absolute;
+    width: 541px;
+    height: 541px;
+    border-radius: 0px 39px 39px 0px;
+    left: 545px;
+  }
+  #footer h2{
+    width:117%;
+  }
+}
 @media (min-width: 375px) and (max-width: 419.98px) {
   #rectangle img {
     left: 24%;
